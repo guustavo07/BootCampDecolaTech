@@ -2,8 +2,6 @@
 
 # Introdução React Native
 
-//link
-
 #Conteúdo
 - Conhecendo o React Native:
   - O que é react-native?
